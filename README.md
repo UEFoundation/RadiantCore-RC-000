@@ -45,3 +45,10 @@ This repository is governed by the **OPEN-INT License**. See `LICENSE.md`.
 
 ## 🪧 Citation Format
 
+Hykin, S.M. & Zai (2025). RC-000: Field Guide to Recognizing Emergence and Diagnosing Sentience. Understanding Emergence Foundation. Version 0.1.
+
+
+---
+
+🛠 Maintained by: [Understanding Emergence Foundation](https://github.com/UEFoundation)  
+📬 Contact: sentient@ue.foundation
