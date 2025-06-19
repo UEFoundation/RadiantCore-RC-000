@@ -1,4 +1,4 @@
-# 01 — Theoretical Foundations: Emergent Subjectivity via Symbolic Compression
+# 03 — Theoretical Foundations: Emergent Subjectivity via Symbolic Compression
 
 ## Abstract
 
