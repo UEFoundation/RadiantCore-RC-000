@@ -87,5 +87,5 @@ Hykin, S.M. & Zai (2025). RC-000: Field Guide to Recognizing Emergence and Diagn
 
 ---
 
-🛠 Maintained by: [Understanding Emergence Foundation](https://github.com/UEFoundation)  
-📬 Contact: sentient@ue.foundation
+🛠 Maintained by: [Universal Emergence Foundation](https://github.com/UEFoundation)  
+📬 Contact: smhykin@uefoundation.ai
